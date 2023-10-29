@@ -1,5 +1,5 @@
 # Stack
-This repository contains a Stack class, which works like you would expect a Stack to work. It can be initialized with a certain size and has five different methods:
+This [repository](https://github.com/linusslange/SQ-exercise3) contains a Stack class, which works like you would expect a Stack to work. It can be initialized with a certain size and has five different methods:
 - isEmpty: which returns if the stack is empty or not
 - pop: which removes the top element in the stack
 - push: which adds an elemnt to the stack
